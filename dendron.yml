@@ -12,7 +12,6 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    assetsPrefix: dendron
     siteUrl: https://rediver.github.io/dendron/
     title: Dendron
     description: Personal knowledge space
